@@ -1,0 +1,21 @@
+# Node.js dependencies (in case I need it)
+node_modules/
+package-lock.json
+package.json
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Build or deployment artifacts
+dist/
+out/
+
+# Ignore user-specific files
+*.swp
