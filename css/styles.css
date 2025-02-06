@@ -1,0 +1,46 @@
+/* General styling */
+body {
+    background-color: #ffcc80; /* Soft orange */
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Main heading */
+h1 {
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+/* Button container */
+.buttons {
+    margin-top: 20px;
+}
+
+/* General button styling */
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* Yes button */
+#yes {
+    background-color: green;
+    color: white;
+}
+
+/* No button */
+#no {
+    background-color: red;
+    color: white;
+    margin-left: 20px;
+}
+
+/* Image styling */
+#gif {
+    margin-top: 20px;
+    width: 300px;
+    height: auto;
+}
